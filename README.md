@@ -1,33 +1,62 @@
-# ✨ Welcome to My GitHub!
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,100:0d47a1&height=200&section=header&text=Hi%20there!%20I'm%20Lutfiah%20Rizka%20💙&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
-### Hi 👋, I'm Lutfiah Rizka
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
-**Mobile Developer | 6th-semester Informatics Engineering Student | Software Engineering Enthusiast**
+## 👋 About Me
 
-🎓 I'm currently studying Informatics Engineering at Universitas Pancasila, focusing on Software Engineering and Mobile Apps Development.
+**Mobile Developer | 6th-Semester Informatics Engineering Student | Software Engineering Enthusiast**
 
-🛠️ I develop mobile apps using **Flutter**, with backend integrations like:
-- 🔥 **Firebase** (Authentication, Realtime Database)
-- 🌐 **REST APIs**
-- 💾 **SQLite** for local data storage
+💻 I love building mobile apps using **Flutter** and **Dart** with clean architecture and cool UI designs!  
+🎓 Currently studying at **Universitas Pancasila**, focusing on Software Engineering and Mobile App Development.
 
-🎨 I design UI/UX in **Figma** before turning it into responsive layouts using Flutter.
+## 💡 What I Use
+
+- 🔥 **Firebase** – Authentication, Realtime Database
+- 🌐 **REST APIs** – for dynamic & real-time features
+- 💾 **SQLite** – for local data storage
+- 🎨 **Figma** – UI/UX design before coding
+
+## 🛠️ Recent Activities
+
+- 🌱 Learning advanced **State Management** in Flutter
+- 🤝 Looking to collaborate on open-source mobile projects
+- 🚀 Building apps that solve real problems & help people
+
+## 🧠 Tech Interests
+
+- 📱 Mobile Development
+- 🎨 UI/UX Design
+- 💬 Tech Community & Open Source
+
+## 📫 Let's Connect!
+
+- 📧 Email: lutfiahrizka@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lutfiahrizka)
+- 🧠 Ask me about: Flutter, Firebase, Mobile UI/UX
 
 ---
 
-### 🚀 I’m currently:
-- 🌱 Learning advanced state management in Flutter
-- 🤝 Open to collaborate on mobile-based projects
-- 💡 Interested in Mobile Development, UI/UX, and Tech for Impact
+## 🎉 Fun Fact
+
+I'm a friendly and creative person who loves cats 🐱, good coffee ☕, and crafting meaningful applications that create an impact.✨
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lutfiahrizka&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lutfiahrizka&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfiahrizka&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-### 📫 How to reach me:
-📩 lutfiahrizka@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/lutfiahrizka)  
-📱 Ask me about: Flutter, Firebase, Mobile UI/UX, Tech Communities
 
----
-
-### ⚡ Fun Fact:
-I’m a friendly, creative person who loves building impactful apps and exploring new tech every day!
