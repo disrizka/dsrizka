@@ -43,19 +43,10 @@
 
 ## 🎉 Fun Fact
 
-I'm a friendly and creative person who loves cats 🐱, good coffee ☕, and crafting meaningful applications that create an impact.✨
+I'm a friendly 😊 and creative 🎨 person who loves cats 🐱, good matcha 🍵, and crafting meaningful applications 💻 that create an impact ✨.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lutfiahrizka&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lutfiahrizka&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfiahrizka&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
